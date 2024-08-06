@@ -1,33 +1,39 @@
-[
-  {
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "username": "Samantha",
-    "email": "Nathan@yesenia.net"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "username": "Karianne",
-    "email": "Julianne.OConner@kory.org"
-  },
-  {
-    "id": 5,
-    "name": "Original Blinky",
-	"Nickname": "urchin",
-    "Difficulty": "3/5",
-	"Description": "This is Blinky's description"
-  }
-]
+{
+  "Original Ghosts":[
+	  {
+	    "id": 1,
+	    "name": "Original Blinky",
+		"Nickname": "urchin",
+	    "Difficulty": "3/5",
+		"Description": "This is Blinky's description"
+	  },
+	  {
+	    "id": 2,
+	    "name": "Original Pinky",
+		"Nickname": "Romp",
+	    "Difficulty": "3/5",
+		"Description": "This is Pinky's description"
+	  },
+	  {
+	    "id": 3,
+	    "name": "Original Inky",
+		"Nickname": "Stylist",
+	    "Difficulty": "2/5",
+		"Description": "This is Inky's description"
+	  },
+	  {
+	    "id": 4,
+	    "name": "Original Clyde",
+		"Nickname": "Crybaby",
+	    "Difficulty": "1/5",
+		"Description": "This is Clydes's description"
+	  },
+	  {
+	    "id": 5,
+	    "name": "Kinky",
+		"Nickname": "?????",
+	    "Difficulty": "0/5",
+		"Description": "This is Kinky's description"
+	  }
+	]
+}

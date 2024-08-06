@@ -2,35 +2,35 @@
   "Original Ghosts":[
 	  {
 	    "id": 1,
-	    "name": "Original Blinky",
+	    "Name": "Original Blinky",
 		"Nickname": "urchin",
 	    "Difficulty": "3/5",
 		"Description": "This is Blinky's description"
 	  },
 	  {
 	    "id": 2,
-	    "name": "Original Pinky",
+	    "Name": "Original Pinky",
 		"Nickname": "Romp",
 	    "Difficulty": "3/5",
 		"Description": "This is Pinky's description"
 	  },
 	  {
 	    "id": 3,
-	    "name": "Original Inky",
+	    "Name": "Original Inky",
 		"Nickname": "Stylist",
 	    "Difficulty": "2/5",
 		"Description": "This is Inky's description"
 	  },
 	  {
 	    "id": 4,
-	    "name": "Original Clyde",
+	    "Name": "Original Clyde",
 		"Nickname": "Crybaby",
 	    "Difficulty": "1/5",
 		"Description": "This is Clydes's description"
 	  },
 	  {
 	    "id": 5,
-	    "name": "Kinky",
+	    "Name": "Kinky",
 		"Nickname": "?????",
 	    "Difficulty": "0/5",
 		"Description": "This is Kinky's description"

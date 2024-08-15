@@ -41,28 +41,28 @@
 	  {
 	    "id": 1,
 	    "Name": "Powered Blinky",
-		"Ability": "Bull-Charge",
+		"Nickname": "Bull-Charge",
 	    "Difficulty": "3/5",
 		"Description": "With Kinky's transformation, Blinky now personafies as a charging bull, with horns to boot.\nHis tactic stays the same, chasing Pac-man with haste in a straight-forward fashion. But, this time \nBlinky has a charge move that sends him flying toward Pac-man at a horizontal position. While this sounds \nlike a big problem, Blinky's horizontal criteria and big start up animation leaves his charge very easy to \navoid. Powered Blinky is still the most dangerous Ghost to be around, but his upgrade is, luckily, \nnot much."
 	  },
 	  {
 	    "id": 2,
 	    "Name": "Powered Pinky",
-		"Ability": "Bunny-Hop",
+		"Nickname": "Bunny-Hop",
 	    "Difficulty": "3/5",
 		"Description": "With Kinky's transformation, Pinky grows bunny ears and has a more friendly demeanor.\nBut don't let her new looks fool you, she's still out for pac blood and has a new ability in the \nform of a jump that will send Pinky to Pac-man's current location. New players beware, as Pinky's \njump is quick and will have you breathing over you in now time. But for the more seasoned players, \nPowered Pinky's ability is quite easy to avoid, as her move is telegraphed with a symbol of where \nshe's land, and her landing animation takes time."
 	  },
 	  {
 	    "id": 3,
 	    "Name": "Powered Inky",
-		"Ability": "Mirror",
+		"Nickname": "Mirror",
 	    "Difficulty": "4/5",
 		"Description": "With Kinky's transformation, Inky gains some confidence with a pair of shades.\nBut, Inky's cool demeaner doesn't mean he's too cool for a tussle. Becoming one of the most \ndangerous ghosts on the maze, Inky splits into TWO ghosts that mirror the original Inky's \nposition, essentially creating a 6th ghost! The saving grace is that the mirror only lasts \na couple seconds, and can be interrupted with power-pellets and the Pink pill. Powered Inky \nis a menace, especially if Kinky choses to chase him first, so be sure to keep your \npower-pellets close by."
 	  },
 	  {
 	    "id": 4,
 	    "Name": "Powered Clyde",
-		"Ability": "Chomper",
+		"Nickname": "Chomper",
 	    "Difficulty": "5/5",
 		"Description": "With Kinky's transformation, Clyde becomes a portly fellow which, somehow, makes \nhim most dangerous Ghost on the maze. But not in terms of power or attack prowess. \nBut in the ability to CREATE FAT PELLETS! Clyde will do his usual wondering around the maze, \noccasionally spitting out pellets in rows. This is a big problem, as the longer you're in \nin a level, the more dangerous the level gets. You may think that you have all the \npellets eaten, but Clyde has other plans, scattering new pellets in places you have \nstruggle to get to. If Kinky is in a bad mood and transforms Clyde first, good luck..."
 	  }

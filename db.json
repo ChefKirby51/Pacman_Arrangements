@@ -5,35 +5,110 @@
 	    "Name": "Original Blinky",
 		"Nickname": "urchin",
 	    "Difficulty": "3/5",
-		"Description": "This is Blinky's description"
+		"Description": "The leader of the Ghost gang and the deadliest of the four.\
+                Being the first to exit the Ghost house, Blinky will straightforwardly chase you down after some time,\
+                getting faster the longer you stay in the level.\
+                Watch out for him and his friend Inky, who helps Blinky intercept Pac-man."
 	  },
 	  {
 	    "id": 2,
 	    "Name": "Original Pinky",
 		"Nickname": "Romp",
 	    "Difficulty": "3/5",
-		"Description": "This is Pinky's description"
+		"Description": "The often girl of the Ghost gang and the most cunning.\
+                Being the second to exit the Ghost house, Pinky might be the hardest Ghost to deal with for newer players,\
+                using ambush tactics to chase Pac-man, predicting where he will go based on his trajectory.\
+                Once Understanding how Pinky chases, you can easily avoid her ambushes."
 	  },
 	  {
 	    "id": 3,
 	    "Name": "Original Inky",
 		"Nickname": "Stylist",
 	    "Difficulty": "2/5",
-		"Description": "This is Inky's description"
+		"Description": "The most bizarre Ghost of the gang, mainly acting as an assist for Blinky.\
+                Blinky comes out after Pac-man has eaten a specific amount of pellets and chases Pac-man\
+                based on where Blinky's trajectory is. Where Blinky is, Inky is soon to follow,\
+                which can lead to Pac-man being trapped between two ghosts. Luckily, Inky himself never chases Pac-man\
+                himself, so as long as you know that, Inky can be easily avoided."
 	  },
 	  {
 	    "id": 4,
 	    "Name": "Original Clyde",
 		"Nickname": "Crybaby",
 	    "Difficulty": "1/5",
-		"Description": "This is Clydes's description"
+		"Description": "The last and... probably least of the Ghost gang. Clyde would be considered a free soul,\
+                never exactly chasing Pac-man, but going about in random directions. But, if Pac-man is close enough,\
+                Clyde will essentially scurry away to a set location. Don't underestimate Clyde, though, he can still kill\
+                Pac-man and, because of his unpredictability, don't be surprised to bump into Clyde when you\
+                least expect it."
 	  },
 	  {
 	    "id": 5,
 	    "Name": "Kinky",
 		"Nickname": "?????",
 	    "Difficulty": "0/5",
-		"Description": "This is Kinky's description"
+		"Description": "The oddball of the Ghost Group, shrouded in mystery. Kinky is both a blessing and\
+                a hinderince, having the unique ability to fuse with Blinky, Pinky, Inky and/or Clyde,\
+                resulting in changing the Ghost gang into stronger opponents. Rather than chasing Pac-man, Kinky\
+                chases the Ghosts, and, when acheiving contact, does the aforementioned fusing.\
+                The longer Pac-man stays in a level and the farther the game progresses, Kinky will\
+                fuse with more ghosts and at a faster pace.\
+                The upside to this is that Kinky is (Until world 4), permanently in a vulnerable state of which\
+                Pac-man can and SHOULD eat, as that Kinky doubles as a Power-pellet.\
+                If you run out of power-pellets, if Kinky is around, he can really help out."
+	  }
+	],
+  
+  "Powered Ghosts":[
+	  {
+	    "id": 1,
+	    "Name": "Powered Blinky",
+		"Ability": "Bull-Charge",
+	    "Difficulty": "3/5",
+		"Description": "With Kinky's transformation, Blinky now personafies as a charging bull, with horns to boot.\
+		  		His tactic stays the same, chasing Pac-man with haste in a straight-forward fashion. But, this time \
+		  Blinky has a charge move that sends him flying toward Pac-man at a horizontal position. While this sounds \
+		  like a big problem, Blinky's horizontal criteria and big start up animation leaves his charge very easy to \
+		  avoid. Powered Blinky is still the most dangerous Ghost to be around, but his upgrade is, luckily, \
+		  not much."
+	  },
+	  {
+	    "id": 2,
+	    "Name": "Powered Pinky",
+		"Ability": "Bunny-Hop",
+	    "Difficulty": "3/5",
+		"Description": "With Kinky's transformation, Pinky grows bunny ears and has a more friendly demeanor. \
+		  But don't let her new looks fool you, she's still out for pac blood and has a new ability in the \
+		  form of a jump that will send Pinky to Pac-man's current location. New players beware, as Pinky's \
+		  jump is quick and will have you breathing over you in now time. But for the more seasoned players, \
+		  Powered Pinky's ability is quite easy to avoid, as her move is telegraphed with a symbol of where \
+		  she's land, and her landing animation takes time."
+	  },
+	  {
+	    "id": 3,
+	    "Name": "Powered Inky",
+		"Ability": "Mirror",
+	    "Difficulty": "4/5",
+		"Description": "With Kinky's transformation, Inky gains some confidence with a pair of shades. \
+		  But, Inky's cool demeaner doesn't mean he's too cool for a tussle. Becoming one of the most \
+		  dangerous ghosts on the maze, Inky splits into TWO ghosts that mirror the original Inky's \
+		  position, essentially creating a 6th ghost! The saving grace is that the mirror only lasts \
+		  a couple seconds, and can be interrupted with power-pellets and the Pink pill. Powered Inky \
+		  is a menace, especially if Kinky choses to chase him first, so be sure to keep your \
+		  power-pellets close by."
+	  },
+	  {
+	    "id": 4,
+	    "Name": "Powered Clyde",
+		"Ability": "Chomper",
+	    "Difficulty": "5/5",
+		"Description": "With Kinky's transformation, Clyde becomes a portly fellow which, somehow, makes \
+		  him most dangerous Ghost on the maze. But not in terms of power or attack prowess. \
+		  But in the ability to CREATE FAT PELLETS! Clyde will do his usual wondering around the maze, \
+		  occasionally spitting out pellets in rows. This is a big problem, as the longer you're in \
+		  in a level, the more dangerous the level gets. You may think that you have all the \
+		  pellets eaten, but Clyde has other plans, scattering new pellets in places you have \
+		  struggle to get to. If Kinky is in a bad mood and transforms Clyde first, good luck..."
 	  }
 	]
 }

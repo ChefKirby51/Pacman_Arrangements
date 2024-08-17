@@ -62,5 +62,32 @@
 	    "Difficulty": "5/5",
 		"Description": "With Kinky's transformation, Clyde becomes a portly fellow which, somehow, makes \nhim most dangerous Ghost on the maze. But not in terms of power or attack prowess. \nBut in the ability to CREATE FAT PELLETS! Clyde will do his usual wondering around the maze, \noccasionally spitting out pellets in rows. This is a big problem, as the longer you're in \nin a level, the more dangerous the level gets. You may think that you have all the \npellets eaten, but Clyde has other plans, scattering new pellets in places you have \nstruggle to get to. If Kinky is in a bad mood and transforms Clyde first, good luck..."
 	  }
+	],
+  "Pills":[
+	{
+		"id": 1,
+		"Name": "Blinky Pill",
+		"Description": "The Red Pill gives Pac-man amazing speed like powered up Blinky, \nmaking it easy to avoid ghost ambushes, as well as eating pellets, ghosts and fruit much faster.\nAn overall good utility item."
+	},
+	{
+		"id": 2,
+		"Name": "Pinky Pill",
+		"Description": "The Pink Pill will send all ghosts currently outside back into the Ghost House, trapped inside a \nmassive vase for several seconds. If you want the Ghosts out of your hair, this is by far the \nmost useful pill in the game."
+	},
+	{
+		"id": 3,
+		"Name": "Inky Pill",
+		"Description": "The Blue Pill creates a mirror clone of Pac-man akin to powered-up Inky's ability, your mirror clone \nwill go the opposite direction you go for several seconds, eating everything pac-man can \nwhile also being invincible. A very useful item that makes quick work of eating pellets."
+	},
+	{
+		"id": 4,
+		"Name": "Clyde Pill",
+		"Description": "The Orange Pill allows Pac-man to eat larger sized pellets without the slowdown effect, said \npellets normally produce. A niche pill that can be useful in later levels where there are more \nthick pellets to deal with and faster ghosts at your back."
+	},
+	{
+		"id": 5,
+		"Name": "Kinky Pill",
+		"Description": "The Yellow Pill is almost worthless, giving you 100 points and queues a laugh from Kinky , \nstealing you out of a good item."
+	}
 	]
 }

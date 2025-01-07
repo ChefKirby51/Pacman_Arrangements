@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enemies</title>
+    <link rel="stylesheet" href="Styles/Main.css">
+</head>
+
+<body style="background-image: url(Images/PacmanBackground.png);">
+    <div class="link">
+        <p><a href="index.html">Home Page</a> &emsp;<a href="stages.html">Stages</a>
+            &emsp; <a href="items.html">items</a> &emsp; <a href="activities.html">Activities</a></p>
+    </div>
+
+    <!--Intro-->
+    <h1 style="text-align: center;">Know you Enemy!</h1>
+    <p class="intro-border">Unlike the ghosts in previous games, and honestly any pac-man game afterwards,
+         Blinky, Pinky, Inky and Clyde can now transform into upgraded versions of themselves
+          thanks to in part by their mysterious new 5th gang-member Kinky. Not only does the ghost gang have 
+        new abilities, but said abilities can be used against them with items of which can be explained in on 
+        the items page. Here, you will learn not only how to properly avoid these pac
+        hungery monster, but use them to your advantage.</p>
+
+    <div class="ghost-row">
+        <h1 style="text-align: center;">
+            Here are the Ghosties that you will be facing <br>
+            (Click on them to see what powers they hold)</h1>
+            <br>
+        <!--Blinky Page-->
+        <ul class="ghost-border">
+            <img src="Images/Blinky1.gif" id="Blinky" alt="Blinky should be here"> <br>
+            <button id="Button1">Change to different Blinky</button>
+            <li id="blinkyInfo"></li>
+
+            <h2 style="text-align: center;">!When Upgraded!</h2>
+
+            <li id="poweredBlinkyInfo"></li>
+        </ul>  
+
+        <!--Pinky Page-->
+        <ul class="ghost-border">
+            <img src="Images/Pinky1.gif" id="Pinky" alt="Pinky should be here"> <br>
+            <button id="Button2">Change to different Blinky</button>
+            <li id="pinkyInfo"></li>
+
+            <h2 style="text-align: center;">!When Upgraded!</h2>
+
+            <li id="poweredPinkyInfo"></li>
+        </ul>
+
+        <!--Inky Page-->
+        <ul class="ghost-border">
+            <img src="Images/Inky1.gif" id="Inky" alt="Inky should be here"> <br>
+            <button id="Button3">Change to different Inky</button>
+            <li id="inkyInfo"></li>
+
+            <h2 style="text-align: center;">!When Upgraded!</h2>
+
+            <li id="poweredInkyInfo"></li>
+        </ul>
+        <!--Clyde Page-->
+        <ul class="ghost-border">
+            <img src="Images/Clyde1.gif" id="Clyde" alt="Clyde should be here"> <br>
+            <button id="Button4">Change to different Clyde</button>
+            <li id="clydeInfo"></li>
+
+            <h2 style="text-align: center;">!When Upgraded!</h2>
+            
+            <li id="poweredClydeInfo"></li>
+        </ul>
+        <!--Kinky's Page-->
+        <ul class="ghost-border">
+            <img src="Images/Kinky.gif" id="Clyde" alt="Clyde should be here"> <br>
+            <li id="kinkyInfo"></li>
+        </ul>
+
+        <ul class="ghost-border">
+            <img src="Images/FinalBoss.gif" alt="Final Boss should be here">
+            <h1 style="color: grey;"> Ghost Bot</h1>
+            <li>In the second part of the Final Battle between the Ghost Gang, You <br>
+                face off against the Ghost Bot, who will chase you while you eat green <br>
+                pellets everywhere on the stage. <br>
+            </li>
+            <img class="stage-fit" src="Images/FinalBossFight2.jpg" alt="">
+            <li>As you eat pellets, the bot will begin gaining speed and, with enough <br>
+                pellets eaten, will go haywire and start bouncing from wall to wall, <br>
+                aimlessly. During this time, it's best to watch the Ghost Bot's <br>
+                trajectory as you eat more pellets. Once all eaten, grab the Pac-man <br>
+                object on the maze. And, with that, you win!
+            </li>
+            <h1></h1>
+
+        </ul>
+    </div>
+    <br>
+
+    <div class="link">
+        <p><a href="index.html">Home Page</a> &emsp;<a href="stages.html">Stages</a> &emsp;
+            <a href="items.html">items</a> &emsp; <a href="activities.html">Activities</a>
+        </p>
+    </div> 
+
+    <script src="Scripts/Main.js"></script>
+</body>
+
+</html>

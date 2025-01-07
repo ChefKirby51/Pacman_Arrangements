@@ -1,0 +1,110 @@
+body{
+    color: yellow;
+}
+ul{
+	margin: auto;
+	text-align: left;
+}
+.stage-fit{
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.timer-border{ 
+  font-size: large;
+  border: 2px solid #32d8f7;
+  border-radius: 12px;
+  padding: 5px;
+  width: 40%;
+  text-align: center;
+  background-color: rgb(15, 14, 14);
+  margin:0 auto;
+  color: yellowgreen;
+}
+.digit{
+  font-size: 40px;
+  color: white;
+}
+.intro-border{
+  font-size: larger;
+  border: 2px solid #32d8f7;
+  border-radius: 12px;
+  padding: 5px;
+  width: 50%;
+  text-align: center;
+  background-color: rgb(15, 14, 14);
+  margin:0 auto;
+}
+.ghost-border{
+  font-size: large;
+  border: 2px solid #32d8f7;
+  border-radius: 12px;
+  padding: 5px;
+  width: 40%;
+  list-style-type: none;
+  text-align: left;
+  background-color: rgb(15, 14, 14);
+}
+
+.fruit-border{
+  font-size: large;
+  border: 2px solid #32d8f7;
+  border-radius: 12px;
+  padding: 5px;
+  width: 20%;
+  list-style-type: none;
+  text-align: left;
+  background-color: rgb(15, 14, 14);
+}
+
+.row{
+	text-align:center;
+    margin:0 auto;
+
+}
+.ghost-row{
+	text-align:left;
+    margin:0 auto;
+
+}
+mark{
+	background-color: rgb(39, 37, 37);
+	color: yellow; 
+}
+.highlight{
+	font-size: 24px;
+	 text-align: left;
+}
+.link{
+    font-size: 24px;
+    text-align: center;
+    margin: 0 auto;
+    width: 30%;
+    border: 2px solid white;
+    border-radius: 15px;
+    padding: 4px;
+	background-color: darkgrey;
+}
+a:link {
+	color: red;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:visited {
+	color: white;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: blue;
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+a:active {
+	color: white;
+	background-color: transparent;
+	text-decoration: underline;	
+}

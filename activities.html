@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activities</title>
+    <link rel="stylesheet" href="Styles/Main.css">
+</head>
+<body style="background-image: url(Images/PacmanBackground.png);">
+    <div class="link"><p><a href="index.html">Home Page</a> &emsp; <a href="ghosts.html">Ghosts</a> &emsp;
+        <a href="stages.html">Stages</a> &emsp; <a href="items.html">items</a></p></div>
+    
+        <!--Intro-->
+    <h1 style="text-align: center;">Activities</h1>
+    <p class="intro-border"> So, if you've studied the other pages and have a better understanding of how
+         to play the game and what to expect. There are some activities that you can use when you play 
+         Pac-man Arrangement. Of course, you will need the game, of which there are many ways to aquire a 
+         copy. <br> Of course, there's purchasing <a href="https://www.nintendo.com/us/store/products/pac-man-museum-plus-switch/"
+         target="_blank">Pac-man Museum+</a>. You can also emulate, whether by emulating Namco Classic Collection Volume 2
+         Via <a href="https://www.mamedev.org/" target="_blank">MAME</a> or 
+         <a href="https://www.fightcade.com/" target="_blank">Fightcade FBNeo</a>, 
+         but that requires a more extensive process, a process I'm not legally able 
+         to explain, but it's one option and emulators are totally legal by themselves. <br><br>
+
+         Either way, we have A speedrun timer and a High-Score board to use 
+         while having a playthrough of Pac-man Arrangement.
+    </p>
+
+        <!--Timer-->
+    <h1 style="text-align: center;">Game Timer</h1>
+
+    <div style="width: 100%; overflow: hidden;">
+        <div class="timer-border">
+            <span class="digit" id="min">00</span>
+            <span class="text">min</span>
+            <span class="digit" id="sec">00</span>
+            <span class="text">sec</span>
+            <span class="digit" id="milli">00</span>
+            <span class="text">milli</span>
+            <br>
+            <button class="btn" id="start">Start</button>
+            <button class="btn" id="stop">Stop</button>
+            <button class="btn" id="reset">Reset</button>
+        </div>
+        <div class="timer-border">
+            <p>Speedrun Records - How quick are you?</p>
+            <ul>
+                <li>0. [less than 9:00.000] - So far, impossible!</li>
+                <li>1. [9:21.133] - WORLD RECORD</li>
+                <li>2. [10:00.000] - MASTER</li>
+                <li>3. [15:00.000] - PRO</li>
+                <li>4. [17:23.392] - My Personal Best</li>
+                <li>5. [20:00.000] - Very Good</li>
+                <li>6. [30:00.000] - Needs more practice</li>
+                <br>
+            </ul>
+            <p>Speed Running Tips: <br>
+                <ul>
+                    <li>Prioritize eating pellets over going for fruits</li>
+                    <li>Blue and Pink Pills are your friends! they help you avoid 
+                        ghosts and eat pellets faster.
+                    </li>
+                    <li>Try and organize a set route which will let you eat 
+                        the most pellets before ghosts start chasing you.
+                    </li>
+                </ul>    
+            </p>
+        </div>
+    </div>
+
+        <!--High Score tracker-->
+    <h1 style="text-align: center;">High Score Tracker</h1>
+    <div class="timer-border">
+        <p>High-Scores - how many points can you rack up?</p>
+        <p>At the end of your playthrough, write your score down to see how you fared.</p>
+        <ul>
+            <li>1. [1,243,590] - WORLD RECORD</li>
+            <li>2. [1,000,000] - MASTER</li>
+            <li>3. [500,000] - PRO</li>
+            <li>4. [292,230] - My Personal Best</li>
+            <li>5. [200,000] - Very Good</li>
+            <li>6. [110,000] - beat the game with restart</li>
+        </ul>
+        <br>
+        <p>High-Score Tips:</p>
+        <ul>
+            <li>This game is pretty cruel in that when you lose all your lives, 
+                your score resets, so it will take a long time to go a whole run 
+                without at least dying more than 3 times.
+            </li>
+            <li>While getting through levels is important, going for ghost 
+                eating comboes takes presidence, especially when ghosts power up.
+                So you are playing high-risk, high-reward.
+            </li>
+            <li>Red and Blue Pills help you eat ghost, fruit and pellets at a faster,
+                safer rate. 
+            </li>
+        </ul>
+    </div>
+
+    <br>
+    
+    <div class="link"><p><a href="index.html">Home Page</a> &emsp; <a href="ghosts.html">Ghosts</a> &emsp;
+        <a href="stages.html">Stages</a> &emsp; <a href="items.html">items</a></p></div>
+        <script src="Scripts/Stopwatch.js"></script>
+</body>
+</html>
